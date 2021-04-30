@@ -1,0 +1,23 @@
+{
+  "name": "TheSatelliteBot",
+  "version": "2.6.0",
+  "description": "A bot that helps users to interact on Telegram",
+  "main": "index.js",
+  "author": "Alexi Jamal",
+  "license": "MIT",
+  "dependencies": {
+    "google": "^2.1.0",
+    "huh": "^2.0.1",
+    "lyric-get": "^1.0.3",
+    "morsefy": "^1.0.0",
+    "moviedb": "^0.2.10",
+    "mw-dict": "^3.0.0",
+    "node-genius": "^1.1.0",
+    "openweather-node": "^0.0.4",
+    "qr-image": "^3.2.0",
+    "request": "^2.88.0",
+    "telegram-node-bot": "^4.0.5",
+    "words-of-the-day": "^1.0.0",
+    "ytdl-core": "^0.29.3"
+  }
+}

@@ -1,0 +1,7 @@
+[26-January-2021 | 22:31:34]: User @loox37, name: Алексей, Sent: Test
+[26-January-2021 | 22:31:38]: User 379633660, username: @loox37 has started using the bot.
+[26-January-2021 | 22:31:46]: User loox37 has changed language to Arabic
+[26-January-2021 | 22:31:54]: /help request was made by Алексей, username: loox37
+[26-January-2021 | 22:48:0]: User 670686860, username: @ShahdHarouni has started using the bot.
+[26-January-2021 | 22:48:13]: We were on a break request was made by Shahd, username: @ShahdHarouni
+[26-January-2021 | 22:51:43]: Annulment request was made by Shahd, username: @ShahdHarouni
