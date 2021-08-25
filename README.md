@@ -237,7 +237,7 @@ The following made it easier:
 <li>Nescafè</li>
 <li>The creator of the library (Naltox, telegram-node-bot)</li>
 <li>JavaScript (Node.js)</li>
-<li>Taylor Swift (contact me for explaination)</li>
+<li>Taylor Swift (you can be a metalhead and love her, she's extraordinary with her music, SWIFTIE FOR LIFE! 🤘)</li>
 </ul>
 As always, as a thank you for the open-source community, this bot is open-sourced.
 
